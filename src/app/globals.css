@@ -14,6 +14,7 @@
   --color-sgr-font-primary-l: #282828;
   --color-sgr-font-secondary-l: #ffffff;
   --color-sgr-font-tertiary-l: #990100;
+  --color-sgr-font-error-l: #990100;
 
   /*DARK MODE*/
   --color-sgr-bg-primary-d: #e8e8e8;
@@ -26,4 +27,5 @@
   --color-sgr-font-primary-d: #282828;
   --color-sgr-font-secondary-d: #ffffff;
   --color-sgr-font-tertiary-d: #990100;
+  --color-sgr-font-error-d: #990100;
 }
